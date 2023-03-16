@@ -1,0 +1,1 @@
+int64 id_robot_nearest_ball
